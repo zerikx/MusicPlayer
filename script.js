@@ -131,3 +131,5 @@ nextBtn.addEventListener("click", nextSong);
 music.addEventListener("ended", nextSong);
 music.addEventListener("timeupdate", UpdateProgressBar);
 progressContainer.addEventListener("click", setProgressbar);
+
+//by Erick siqueiros
